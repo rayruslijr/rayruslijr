@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @rayruslijr
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning Data Analytics at Career Foundry
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rayruslijunior@googlemail.com
+- 👋 Hi, I’m @rayruslijr and a Data Analyst
+- 💞️ Portfolio: https://www.rayruslijunior.com
+- 📫 How to reach me contact@rayruslijunior.com
 
 <!---
 rayruslijr/rayruslijr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
